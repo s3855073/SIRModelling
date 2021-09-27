@@ -1,0 +1,60 @@
+NETBEGIN 1
+CLUBEGIN 1
+PERBEGIN 1
+CLSBEGIN 1
+HIEBEGIN 1
+VECBEGIN 1
+N 1 ERDREN  [1000, 1, 1, 0] (1000)
+N 1 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SS_ERDREN_0.net" 0 
+N 2 ERDREN  [1000, 1, 1, 0] (1000)
+N 2 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SS_ERDREN_1.net" 0 
+N 3 ERDREN  [1000, 1, 1, 0] (1000)
+N 3 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SS_ERDREN_2.net" 0 
+N 4 ERDREN  [1000, 3, 1, 0] (1000)
+N 4 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SM_ERDREN_0.net" 0 
+N 5 ERDREN  [1000, 3, 1, 0] (1000)
+N 5 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SM_ERDREN_1.net" 0 
+N 6 ERDREN  [1000, 3, 1, 0] (1000)
+N 6 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SM_ERDREN_2.net" 0 
+N 7 ERDREN  [1000, 5, 1, 0] (1000)
+N 7 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SL_ERDREN_0.net" 0 
+N 8 ERDREN  [1000, 5, 1, 0] (1000)
+N 8 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SL_ERDREN_1.net" 0 
+N 9 ERDREN  [1000, 5, 1, 0] (1000)
+N 9 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\SL_ERDREN_2.net" 0 
+N 10 ERDREN  [3000, 1, 1, 0] (3000)
+N 10 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\MS_ERDREN_0.net" 0 
+N 11 ERDREN  [3000, 1, 1, 0] (3000)
+N 11 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\MS_ERDREN_1.net" 0 
+N 12 ERDREN  [3000, 1, 1, 0] (3000)
+N 12 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\MS_ERDREN_2.net" 0 
+N 13 ERDREN  [3000, 3, 1, 0] (3000)
+N 13 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\MM_ERDREN_0.net" 0 
+N 14 ERDREN  [3000, 3, 1, 0] (3000)
+N 14 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\MM_ERDREN_1.net" 0 
+N 15 ERDREN  [3000, 3, 1, 0] (3000)
+N 15 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\MM_ERDREN_2.net" 0 
+N 16 ERDREN  [3000, 5, 1, 0] (3000)
+N 16 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\ML_ERDREN_0.net" 0 
+N 17 ERDREN  [3000, 5, 1, 0] (3000)
+N 17 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\ML_ERDREN_1.net" 0 
+N 18 ERDREN  [3000, 5, 1, 0] (3000)
+N 18 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\ML_ERDREN_2.net" 0 
+N 19 ERDREN  [5000, 1, 1, 0] (5000)
+N 19 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LS_ERDREN_0.net" 0 
+N 20 ERDREN  [5000, 1, 1, 0] (5000)
+N 20 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LS_ERDREN_1.net" 0 
+N 21 ERDREN  [5000, 1, 1, 0] (5000)
+N 21 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LS_ERDREN_2.net" 0 
+N 22 ERDREN  [5000, 3, 1, 0] (5000)
+N 22 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LM_ERDREN_0.net" 0 
+N 23 ERDREN  [5000, 3, 1, 0] (5000)
+N 23 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LM_ERDREN_1.net" 0 
+N 24 ERDREN  [5000, 3, 1, 0] (5000)
+N 24 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LM_ERDREN_2.net" 0 
+N 25 ERDREN  [5000, 5, 1, 0] (5000)
+N 25 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LL_ERDREN_0.net" 0 
+N 26 ERDREN  [5000, 5, 1, 0] (5000)
+N 26 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LL_ERDREN_1.net" 0 
+N 27 ERDREN  [5000, 5, 1, 0] (5000)
+N 27 WN "/Users/vincenttso/java-projects/algoAssign1/AlgorithmsAndAnalysisA1/assign1Skeleton\graphs\LL_ERDREN_2.net" 0 
